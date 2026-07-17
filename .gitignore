@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# DataForge Platform
+# ==========================================
+
+# Local logs
+logs/
+
+# Temporary data
+data/temp/
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local VS Code settings (optional)
+.vscode/settings.json
